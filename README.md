@@ -18,4 +18,4 @@ This repository contains a part of the files that were generated during the deve
 
 - `Approach 2 - Frequency domain`: This directory contains the `SecondApprox` notebook, with the functions used to perform the FFT transformation, as well as the analyses done with Select K Best, PCA and t-SNE. The `loadings-PCA-testX-CHY-fixed.csv` files are also in this folder, which contain the loadings of PCA for a 95% explained variance.
 
-- `Approach 3 - Machine Learning Techniques`: This directory contains the last notebook, `ThirdApprox`, which analyses the results from the previous notebook, contained in the file `nimbus-test3-CH3-fixed`, with the use of machine learning techniques.
+- `Approach 3 - Machine Learning`: This directory contains the last notebook, `ThirdApprox`, which analyses the results from the previous notebook, contained in the file `nimbus-test3-CH3-fixed`, with the use of machine learning techniques.
