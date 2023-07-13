@@ -4,7 +4,7 @@
 **Tutor:** Granda Candás, Juan Carlos  
 **Co-tutor:** Magadan Cobo, Luis  
 
-**Date:** July 2023
+**Date:** 23rd of July, 2023
 
 ## Introduction
 
